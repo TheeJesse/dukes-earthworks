@@ -6,7 +6,7 @@ import content from "../../content/pages/about.json";
 export const metadata: Metadata = {
   title: "About Us – Duke's Earthworks",
   description:
-    "Learn about Jonathon Smyley and Duke's Earthworks — professional skid steer services including grading, driveways, erosion control, and land clearing across Northwest Florida.",
+    "Learn about Jonathan Smyly and Duke's Earthworks — professional skid steer services including grading, driveways, erosion control, and land clearing across Northwest Florida.",
 };
 
 const localBusinessSchema = {
