@@ -22,6 +22,7 @@ export default function Header() {
           <Link href="/gallery" className="hover:text-yellow-200 transition-colors">Gallery</Link>
           <Link href="/faq" className="hover:text-yellow-200 transition-colors">FAQ</Link>
           <Link href="/about" className="hover:text-yellow-200 transition-colors">About</Link>
+          <Link href="/areas-we-serve" className="hover:text-yellow-200 transition-colors">Areas</Link>
           <Link href="/contact" className="hover:text-yellow-200 transition-colors">Contact</Link>
           <a
             href="/contact"
@@ -54,6 +55,7 @@ export default function Header() {
           <Link href="/gallery" onClick={() => setMenuOpen(false)} className="py-2 border-b border-gray-700 hover:text-yellow-200">Gallery</Link>
           <Link href="/faq" onClick={() => setMenuOpen(false)} className="py-2 border-b border-gray-700 hover:text-yellow-200">FAQ</Link>
           <Link href="/about" onClick={() => setMenuOpen(false)} className="py-2 border-b border-gray-700 hover:text-yellow-200">About</Link>
+          <Link href="/areas-we-serve" onClick={() => setMenuOpen(false)} className="py-2 border-b border-gray-700 hover:text-yellow-200">Areas We Serve</Link>
           <Link href="/contact" onClick={() => setMenuOpen(false)} className="py-2 border-b border-gray-700 hover:text-yellow-200">Contact</Link>
           <a
             href="/contact"

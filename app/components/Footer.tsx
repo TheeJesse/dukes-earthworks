@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer style={{ backgroundColor: "#1a1a1a" }} className="text-white">
       <div className="max-w-6xl mx-auto px-4 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-10">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-10">
           {/* Brand */}
           <div>
             <h3 className="text-xl font-bold mb-2">Duke&apos;s Earthworks</h3>
@@ -24,6 +24,22 @@ export default function Footer() {
               <li><Link href="/faq" className="hover:text-white transition-colors">FAQ</Link></li>
               <li><Link href="/about" className="hover:text-white transition-colors">About Us</Link></li>
               <li><Link href="/contact" className="hover:text-white transition-colors">Contact</Link></li>
+            </ul>
+          </div>
+
+          {/* Areas We Serve */}
+          <div>
+            <h4 className="font-semibold mb-3" style={{ color: "#FFCC00" }}>Areas We Serve</h4>
+            <ul className="space-y-1.5 text-sm text-gray-300">
+              <li><Link href="/skid-steer-services-destin-fl" className="hover:text-white transition-colors">Destin</Link></li>
+              <li><Link href="/skid-steer-services-santa-rosa-beach-fl" className="hover:text-white transition-colors">Santa Rosa Beach / 30A</Link></li>
+              <li><Link href="/skid-steer-services-niceville-fl" className="hover:text-white transition-colors">Niceville</Link></li>
+              <li><Link href="/skid-steer-services-fort-walton-beach-fl" className="hover:text-white transition-colors">Fort Walton Beach</Link></li>
+              <li><Link href="/skid-steer-services-navarre-fl" className="hover:text-white transition-colors">Navarre</Link></li>
+              <li><Link href="/skid-steer-services-milton-fl" className="hover:text-white transition-colors">Milton</Link></li>
+              <li><Link href="/skid-steer-services-pensacola-fl" className="hover:text-white transition-colors">Pensacola</Link></li>
+              <li><Link href="/skid-steer-services-freeport-fl" className="hover:text-white transition-colors">Freeport</Link></li>
+              <li><Link href="/skid-steer-services-crestview-fl" className="hover:text-white transition-colors">Crestview</Link></li>
             </ul>
           </div>
 
