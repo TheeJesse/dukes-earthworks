@@ -64,8 +64,8 @@ export default function Header() {
           >
             Get a Free Quote
           </a>
-          <a href="tel:8504499885" className="text-center py-2 font-semibold" style={{ color: "#367C2B" }}>
-            📞 (850) 449-9885
+          <a href="/contact" className="text-center py-2 font-semibold" style={{ color: "#FFCC00" }}>
+            Get a Free Quote
           </a>
         </div>
       )}

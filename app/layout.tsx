@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     template: "%s | Duke's Earthworks",
   },
   description:
-    "Professional skid steer services in Northwest Florida. Driveways, grading, erosion control, land clearing, silt fencing, and more. Serving Destin, 30A, Milton, Pensacola, and the Emerald Coast. Call (850) 449-9885.",
+    "Professional skid steer services in Northwest Florida. Driveways, grading, erosion control, land clearing, silt fencing, and more. Serving Destin, 30A, Milton, Pensacola, and the Emerald Coast.",
   keywords: [
     "skid steer services Milton FL",
     "driveway grading Destin FL",

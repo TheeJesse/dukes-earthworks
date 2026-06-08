@@ -4,7 +4,7 @@ import content from "../../content/pages/contact.json";
 export const metadata: Metadata = {
   title: "Contact Us – Get a Free Quote from Duke's Earthworks",
   description:
-    "Contact Duke's Earthworks for a free quote on skid steer services in Northwest Florida. Call (850) 449-9885 or fill out our form. Serving Destin, 30A, Milton, Pensacola, and the Emerald Coast.",
+    "Contact Duke's Earthworks for a free quote on skid steer services in Northwest Florida. Fill out our form for a fast response. Serving Destin, 30A, Milton, Pensacola, and the Emerald Coast.",
 };
 
 export default function ContactPage() {
@@ -39,7 +39,7 @@ export default function ContactPage() {
                     className="text-2xl font-bold hover:underline"
                     style={{ color: "#367C2B" }}
                   >
-                    {contact.phone}
+                    📞 Tap to Call
                   </a>
                   <p className="text-gray-500 text-sm mt-1">{contact.note}</p>
                 </div>
@@ -80,14 +80,7 @@ export default function ContactPage() {
                 <div className="text-center py-12 rounded-lg" style={{ backgroundColor: "#F0EBE3" }}>
                   <div className="text-4xl mb-4">📋</div>
                   <p className="text-gray-600 font-semibold mb-2">Online form coming soon!</p>
-                  <p className="text-gray-500 text-sm mb-4">In the meantime, give us a call or send a text.</p>
-                  <a
-                    href="tel:8504499885"
-                    className="inline-block px-7 py-3 rounded-full font-semibold"
-                    style={{ backgroundColor: "#FFCC00", color: "#1a1a1a" }}
-                  >
-                    📞 Call (850) 449-9885
-                  </a>
+                  <p className="text-gray-500 text-sm mb-4">In the meantime, tap the Call button above and we&apos;ll get you a quote.</p>
                 </div>
               )}
 

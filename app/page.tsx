@@ -8,7 +8,7 @@ import settings from "../content/settings.json";
 export const metadata: Metadata = {
   title: `${settings.business_name} | Professional Skid Steer Services on the Emerald Coast`,
   description:
-    "Professional grading, driveways, erosion control, silt fencing, land clearing, and skid steer services across Northwest Florida. John Deere equipment. Free quotes. Call (850) 449-9885.",
+    "Professional grading, driveways, erosion control, silt fencing, land clearing, and skid steer services across Northwest Florida. John Deere equipment. Free quotes. Serving the Emerald Coast.",
 };
 
 const localBusinessSchema = {
@@ -70,10 +70,10 @@ export default function HomePage() {
                 Get a Free Quote →
               </a>
               <a
-                href="tel:8504499885"
+                href="/contact"
                 className="px-8 py-4 rounded-full font-bold border-2 border-white text-white text-base hover:bg-white hover:text-gray-900 transition-colors"
               >
-                📞 (850) 449-9885
+                📞 Request a Call
               </a>
             </div>
           </div>

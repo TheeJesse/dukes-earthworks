@@ -32,8 +32,8 @@ export default function Footer() {
             <h4 className="font-semibold mb-3" style={{ color: "#FFCC00" }}>Contact Us</h4>
             <ul className="space-y-2 text-sm text-gray-300 mb-5">
               <li>
-                <a href="tel:8504499885" className="hover:text-white transition-colors">
-                  📞 <strong>(850) 449-9885</strong>
+                <a href="/contact" className="hover:text-white transition-colors">
+                  📞 <strong>Tap to Call</strong>
                 </a>
               </li>
               <li className="text-gray-400">Mon–Sat: 7:00 AM – 6:00 PM</li>

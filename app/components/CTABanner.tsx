@@ -16,10 +16,10 @@ export default function CTABanner({ heading = "Ready to get your project started
           Get a Free Quote →
         </a>
         <a
-          href="tel:8504499885"
+          href="/contact"
           className="px-7 py-3 rounded-full font-semibold border-2 border-white text-white text-sm hover:bg-white hover:text-gray-900 transition-colors"
         >
-          📞 Call: (850) 449-9885
+          📞 Request a Call
         </a>
       </div>
     </section>
