@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "tagline": "Emerald Coast's Skid Steer Specialist",
+    "heading": "Professional Grading, Driveways, Erosion Control & Land Clearing Across Northwest Florida",
+    "subheading": "From driveways and grading to erosion control and land clearing — we get the job done right with professional-grade John Deere equipment.",
+    "hero_image": "/images/hero-promo.jpg",
+    "hero_image_alt": "Professional skid steer services on the Emerald Coast in Northwest Florida"
+  },
+  "services": [
+    {
+      "icon": "🚧",
+      "name": "Driveway Installation & Grading",
+      "description": "New driveway installation, regrading, and repair. Gravel, dirt, and shell driveways built to last."
+    },
+    {
+      "icon": "📐",
+      "name": "Land Grading & Leveling",
+      "description": "Precise grading for proper drainage, building prep, and landscape leveling across your property."
+    },
+    {
+      "icon": "🌊",
+      "name": "Erosion Control & Silt Fencing",
+      "description": "Silt fence installation, erosion control measures, and stormwater management for residential and commercial sites."
+    },
+    {
+      "icon": "💧",
+      "name": "Irrigation Prep",
+      "description": "Trenching and site preparation for irrigation system installation. Get your property ready for water."
+    },
+    {
+      "icon": "🌳",
+      "name": "Root Raking & Land Clearing",
+      "description": "Clear overgrown lots, remove roots and debris, and prep your land for building or landscaping."
+    },
+    {
+      "icon": "🏗️",
+      "name": "Fence Line Prep & Installation",
+      "description": "Fence line clearing, post hole prep, and fence installation for residential and agricultural properties."
+    },
+    {
+      "icon": "🔧",
+      "name": "Custom Skid Steer Work",
+      "description": "Got a unique project? We handle any skid steer job — from material spreading to demolition prep and everything in between."
+    }
+  ],
+  "why_us": [
+    {
+      "title": "Skid Steer Specialist",
+      "body": "Not a general contractor — focused expertise on skid steer work means efficient, high-quality results every time."
+    },
+    {
+      "title": "John Deere Reliability",
+      "body": "Professional-grade John Deere equipment with grapple bucket, regular bucket, and rental attachments for any job."
+    },
+    {
+      "title": "Emerald Coast Expertise",
+      "body": "We know the local terrain, soil conditions, and weather challenges across Northwest Florida."
+    },
+    {
+      "title": "Flexible & Equipped",
+      "body": "Grapple, bucket, and rental attachments available — no job too big or too small."
+    },
+    {
+      "title": "Honest & Straightforward",
+      "body": "No-nonsense communication, fair pricing, and we show up when we say we will."
+    }
+  ],
+  "about_snippet": {
+    "heading": "Owned & Operated by Jonathon Smyley",
+    "body": "Jonathon Smyley, owner and operator. Milton, FL based. Recently invested in a John Deere skid steer to focus on what he does best — moving dirt and getting jobs done right. Serving the Emerald Coast and all of Northwest Florida."
+  }
+}

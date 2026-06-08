@@ -1,0 +1,102 @@
+{
+  "hero": {
+    "heading": "Frequently Asked Questions",
+    "subheading": "Everything you need to know about our skid steer services on the Emerald Coast."
+  },
+  "categories": [
+    {
+      "title": "Our Skid Steer Services",
+      "questions": [
+        {
+          "q": "What services do you offer?",
+          "a": "We provide driveway installation and grading, land grading and leveling, erosion control and silt fencing, irrigation prep, root raking and land clearing, fence line prep and installation, and custom skid steer work across Northwest Florida."
+        },
+        {
+          "q": "What kind of equipment do you use?",
+          "a": "We run a John Deere skid steer with a grapple bucket and regular bucket. For specialized jobs, we rent additional attachments so we always have the right tool for the work."
+        },
+        {
+          "q": "Do you handle residential and commercial jobs?",
+          "a": "Yes. We work with homeowners, builders, and commercial property owners across the Emerald Coast. No job too big or too small."
+        },
+        {
+          "q": "Can you handle large land clearing projects?",
+          "a": "Absolutely. Our grapple bucket makes quick work of overgrown lots, root systems, and heavy debris. We clear the land so it's ready for your next step."
+        }
+      ]
+    },
+    {
+      "title": "Driveways & Grading",
+      "questions": [
+        {
+          "q": "What types of driveways do you install?",
+          "a": "We install and grade gravel, dirt, shell, and limestone driveways. We ensure proper drainage and a solid base that holds up to Northwest Florida's weather."
+        },
+        {
+          "q": "Can you fix my existing driveway?",
+          "a": "Yes. We regrade and repair existing driveways that have developed potholes, ruts, or drainage problems. We'll get it back in shape."
+        },
+        {
+          "q": "What's involved in land grading?",
+          "a": "We use the skid steer to shape and level your land for proper drainage, building prep, or landscape improvement. We assess the property and grade it to do what you need."
+        }
+      ]
+    },
+    {
+      "title": "Erosion Control & Fencing",
+      "questions": [
+        {
+          "q": "What is silt fencing?",
+          "a": "Silt fencing is a temporary barrier installed on construction sites to prevent sediment from washing into waterways. It's often required by local regulations during construction."
+        },
+        {
+          "q": "Do you install the fence too, or just prep?",
+          "a": "We do both. We can clear the fence line, set posts, and install fencing — or just handle the prep work if you have your own fencing contractor."
+        },
+        {
+          "q": "How does erosion control work?",
+          "a": "We install silt fencing, grade for proper water flow, and implement other measures to keep soil on your site and out of storm drains and waterways. Essential for new construction and site development."
+        }
+      ]
+    },
+    {
+      "title": "Scheduling & Pricing",
+      "questions": [
+        {
+          "q": "How much does it cost?",
+          "a": "Pricing depends on the job size, terrain, and equipment needed. We provide free on-site quotes with honest, competitive pricing — no hidden fees."
+        },
+        {
+          "q": "What areas do you serve?",
+          "a": "We serve Destin, 30A, Santa Rosa Beach, Niceville, Fort Walton Beach, Navarre, Milton, Pensacola, Freeport, Crestview, and surrounding areas across Northwest Florida."
+        },
+        {
+          "q": "How soon can you start?",
+          "a": "We try to schedule jobs as quickly as possible. Contact us for availability — we'll give you a realistic timeline upfront."
+        },
+        {
+          "q": "Do you require a deposit?",
+          "a": "We keep it simple and straightforward. Payment terms are discussed upfront with no surprises."
+        }
+      ]
+    },
+    {
+      "title": "Getting Started",
+      "questions": [
+        {
+          "q": "How do I get a quote?",
+          "a": "Call or text us at (850) 449-9885, or fill out the form on our contact page. We'll visit your property and give you a free, no-obligation quote."
+        },
+        {
+          "q": "What should I have ready before you arrive?",
+          "a": "Just a clear idea of what you need done. We'll handle the assessment and recommendations when we visit the site."
+        },
+        {
+          "q": "Do you work year-round?",
+          "a": "Yes. We work throughout the year, weather permitting. Northwest Florida's mild climate means we can usually stay busy most of the year."
+        }
+      ]
+    }
+  ],
+  "cta_banner_heading": "Still have questions? Give us a call."
+}

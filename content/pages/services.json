@@ -1,0 +1,68 @@
+{
+  "hero": {
+    "heading": "Our Services – Professional Skid Steer Services on the Emerald Coast",
+    "subheading": "From driveways and grading to erosion control and land clearing — we provide expert skid steer services across Destin, 30A, Santa Rosa Beach, Niceville, Fort Walton Beach, Navarre, Milton, Pensacola, and all of Northwest Florida.",
+    "climate_note": "We understand Northwest Florida's sandy soil, heavy rains, and coastal conditions — our work is built to handle it all."
+  },
+  "primary_services": [
+    {
+      "name": "Driveway Installation & Grading",
+      "desc": "New driveway construction, regrading, and repair. We handle gravel, dirt, shell, and limestone driveways — built for proper drainage and long-lasting performance.",
+      "img": "/images/hero-driveway.jpg"
+    },
+    {
+      "name": "Land Grading & Leveling",
+      "desc": "Precision grading for building pads, drainage correction, and landscape preparation. We shape your land to do exactly what you need it to do.",
+      "img": "/images/hero-promo.jpg"
+    },
+    {
+      "name": "Erosion Control & Silt Fencing",
+      "desc": "Professional silt fence installation and erosion control for construction sites, new builds, and stormwater compliance. We keep your site legal and your dirt where it belongs.",
+      "img": "/images/hero-ranch-fence.jpg"
+    },
+    {
+      "name": "Irrigation Prep",
+      "desc": "Trenching and site preparation for irrigation systems. We clear the path so your irrigation contractor can get straight to work.",
+      "img": "/images/hero-deck-1.jpg"
+    },
+    {
+      "name": "Root Raking & Land Clearing",
+      "desc": "Clear overgrown lots, remove stumps and root systems, and prep your land for building, farming, or landscaping. Our grapple bucket makes quick work of heavy clearing.",
+      "img": "/images/hero-fence-cedar.jpg"
+    },
+    {
+      "name": "Fence Line Prep & Installation",
+      "desc": "Fence line clearing, grading, and installation for residential, agricultural, and commercial properties. We prep the ground and set the posts."
+    },
+    {
+      "name": "Custom Skid Steer Work",
+      "desc": "Material spreading, demolition prep, debris removal, and any other skid steer work you need. If it involves moving dirt, we've got it covered."
+    }
+  ],
+  "process_steps": [
+    {
+      "title": "Free On-Site Quote",
+      "body": "We visit your property, assess the job, and give you a straightforward quote — no surprises."
+    },
+    {
+      "title": "Equipment Setup",
+      "body": "We bring the right attachment for the job — grapple bucket, standard bucket, or specialty rental attachments."
+    },
+    {
+      "title": "Professional Execution",
+      "body": "We get to work efficiently with our John Deere skid steer, handling the job with precision and care for your property."
+    },
+    {
+      "title": "Clean Up & Walkthrough",
+      "body": "We leave your property clean and walk the job with you to make sure everything meets your expectations."
+    }
+  ],
+  "why_stand_out": [
+    "Specialized skid steer expertise — not a jack-of-all-trades",
+    "John Deere professional-grade equipment",
+    "Knows Emerald Coast soil and terrain",
+    "Flexible attachments for any job",
+    "Honest, straightforward pricing"
+  ],
+  "cta_banner_heading": "Ready to get your project started?"
+}
